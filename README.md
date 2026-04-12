@@ -39,7 +39,8 @@ This project demonstrates data transformation, multi-dimensional analysis, advan
 ## 📊 Dashboard Features
 
 ### KPI Cards
-(![KPI Cards](./Screenshots/kpi_cards.png))
+![KPI Cards](./Screenshots/kpi_cards.png)
+
 
 - **Total Orders:** 5,000
 - **Total Revenue:** ₹1.10 Crores
