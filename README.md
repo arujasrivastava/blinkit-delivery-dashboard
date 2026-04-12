@@ -7,11 +7,10 @@ An end-to-end Excel analytics solution analyzing **5,000 Blinkit delivery orders
 This project demonstrates data transformation, multi-dimensional analysis, advanced visualization, and strategic business recommendations.
 
 ## 📊 Dashboard Preview
-![Dashboard](<img width="1350" height="530" alt="Blinkit_dashboard_1" src="https://github.com/user-attachments/assets/52048d38-c8a3-4343-9b05-637e20894ae6" />
-)
-![Dashboard View 2](<img width="1372" height="662" alt="Blinkit_dashboard2" src="https://github.com/user-attachments/assets/3402c716-ae05-4f07-835b-48d9c6bcc571" />
-)
 
+![Dashboard](https://github.com/user-attachments/assets/52048d38-c8a3-4343-9b05-637e20894ae6)
+
+![Dashboard View 2](https://github.com/user-attachments/assets/3402c716-ae05-4f07-835b-48d9c6bcc571)
 ---
 
 ## 📈 Key Insights Discovered
