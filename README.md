@@ -39,7 +39,7 @@ This project demonstrates data transformation, multi-dimensional analysis, advan
 ## 📊 Dashboard Features
 
 ### KPI Cards
-![KPI Cards](./screenshots/Kpi_cards.png)
+(![KPI Cards](./Screenshots/kpi_cards.png))
 
 - **Total Orders:** 5,000
 - **Total Revenue:** ₹1.10 Crores
@@ -81,7 +81,7 @@ This project demonstrates data transformation, multi-dimensional analysis, advan
 
 ## 📌 Strategy Snapshot
 
-![Strategies](./screenshots/blinkit_strategies.png)
+![Strategies](./Screenshots/blinkit_strategies.png)
 
 ### 1. Capacity Optimization
 - Deploy additional delivery partners on **Wednesday & Sunday** to reduce SLA breaches
