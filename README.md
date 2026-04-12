@@ -39,7 +39,7 @@ This project demonstrates data transformation, multi-dimensional analysis, advan
 ## 📊 Dashboard Features
 
 ### KPI Cards
-![KPI Cards](./Screenshots/kpi_cards.png)
+![KPI Cards](https://raw.githubusercontent.com/arujasrivastava/blinkit-delivery-dashboard/main/Screenshots/Kpi_cards.png)
 
 
 - **Total Orders:** 5,000
@@ -82,7 +82,7 @@ This project demonstrates data transformation, multi-dimensional analysis, advan
 
 ## 📌 Strategy Snapshot
 
-![Strategies](./Screenshots/blinkit_strategies.png)
+![Strategies](https://raw.githubusercontent.com/arujasrivastava/blinkit-delivery-dashboard/main/Screenshots/Blinkit_startegies.png))
 
 ### 1. Capacity Optimization
 - Deploy additional delivery partners on **Wednesday & Sunday** to reduce SLA breaches
