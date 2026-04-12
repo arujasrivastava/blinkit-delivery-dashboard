@@ -7,8 +7,8 @@ An end-to-end Excel analytics solution analyzing **5,000 Blinkit delivery orders
 This project demonstrates data transformation, multi-dimensional analysis, advanced visualization, and strategic business recommendations.
 
 ## 📊 Dashboard Preview
-![Dashboard](./Screenshots/blinkit_dashboard_1.png)
-![Dashboard View 2](./Screenshots/blinkit_dashboard_2.png)
+![Dashboard](./screenshots/blinkit_dashboard_1.png)
+![Dashboard View 2](./screenshots/blinkit_dashboard_2.png)
 
 ---
 
@@ -38,7 +38,7 @@ This project demonstrates data transformation, multi-dimensional analysis, advan
 ## 📊 Dashboard Features
 
 ### KPI Cards
-![KPI Cards](./Screenshots/Kpi_cards.png)
+![KPI Cards](./screenshots/Kpi_cards.png)
 
 - **Total Orders:** 5,000
 - **Total Revenue:** ₹1.10 Crores
@@ -80,7 +80,7 @@ This project demonstrates data transformation, multi-dimensional analysis, advan
 
 ## 📌 Strategy Snapshot
 
-![Strategies](./Screenshots/blinkit_strategies.png)
+![Strategies](./screenshots/blinkit_strategies.png)
 
 ### 1. Capacity Optimization
 - Deploy additional delivery partners on **Wednesday & Sunday** to reduce SLA breaches
